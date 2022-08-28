@@ -1,0 +1,28 @@
+
+GAME ENDPOINTS
+
+https://rest-bf.blox.land/games/crash
+https://rest-bf.blox.land/games/cases
+https://rest-bf.blox.land/games/mines
+https://rest-bf.blox.land/games/towers
+https://rest-bf.blox.land/games/cups
+https://rest-bf.blox.land/games/jackpot
+https://rest-bf.blox.land/games/roulette
+
+LIVEFEED ENDPOINTS
+
+https://rest-bf.blox.land/live-feed/high-wins
+https://rest-bf.blox.land/live-feed/lucky-wins
+https://rest-bf.blox.land/live-feed/high-wins
+https://rest-bf.blox.land/live-feed/all-bets
+
+ACTION ENDPOINTS
+
+https://rest-bf.blox.land/games/crash/action
+https://rest-bf.blox.land/games/cases/action
+https://rest-bf.blox.land/games/mines/action
+https://rest-bf.blox.land/games/towers/action
+https://rest-bf.blox.land/games/cups/action
+https://rest-bf.blox.land/games/jackpot/action
+https://rest-bf.blox.land/games/roulette/action
+
